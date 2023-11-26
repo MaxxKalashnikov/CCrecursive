@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ЛБ7 ЗД2/1.0.0": {
+        "runtime": {
+          "ЛБ7 ЗД2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ЛБ7 ЗД2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
